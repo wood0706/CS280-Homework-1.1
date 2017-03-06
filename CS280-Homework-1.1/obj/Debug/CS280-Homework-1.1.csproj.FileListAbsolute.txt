@@ -1,0 +1,9 @@
+c:\users\沛樺\documents\visual studio 2013\Projects\CS280-Homework-1.1\CS280-Homework-1.1\bin\Debug\CS280-Homework-1.1.exe.config
+c:\users\沛樺\documents\visual studio 2013\Projects\CS280-Homework-1.1\CS280-Homework-1.1\bin\Debug\CS280-Homework-1.1.exe
+c:\users\沛樺\documents\visual studio 2013\Projects\CS280-Homework-1.1\CS280-Homework-1.1\bin\Debug\CS280-Homework-1.1.pdb
+c:\users\沛樺\documents\visual studio 2013\Projects\CS280-Homework-1.1\CS280-Homework-1.1\obj\Debug\CS280-Homework-1.1.csprojResolveAssemblyReference.cache
+c:\users\沛樺\documents\visual studio 2013\Projects\CS280-Homework-1.1\CS280-Homework-1.1\obj\Debug\CS280-Homework-1.1.exe
+c:\users\沛樺\documents\visual studio 2013\Projects\CS280-Homework-1.1\CS280-Homework-1.1\obj\Debug\CS280-Homework-1.1.pdb
+C:\CSProjects\CS280-Homework-1.1\CS280-Homework-1.1\bin\Debug\CS280-Homework-1.1.exe.config
+C:\CSProjects\CS280-Homework-1.1\CS280-Homework-1.1\obj\Debug\CS280-Homework-1.1.exe
+C:\CSProjects\CS280-Homework-1.1\CS280-Homework-1.1\obj\Debug\CS280-Homework-1.1.pdb
